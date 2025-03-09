@@ -1,6 +1,3 @@
-# originX - Overview
-For Sonic DeFAI Hackathon
-
 ### What is originX?  
 originX is a decentralized finance (DeFi) platform designed to simplify and optimize cryptocurrency investments for users of all experience levels. By leveraging artificial intelligence (AI) and smart contracts, the platform offers personalized investment strategies tailored to individual risk profiles—Conservative, Balanced, or Aggressive. originX integrates with trusted DeFi protocols like SiloV2, Origin Protocol, and EulerV2 to provide secure, automated portfolio management through its innovative Agent Wallet system. With a focus on accessibility, transparency, and security, originX empowers both novice and experienced investors to navigate the complexities of DeFi with confidence.
 
@@ -23,14 +20,14 @@ https://kbaji.gitbook.io/originx/
 ## Repositories
 Here are the links of all repositories:
 
-**originX Web:** https://github.com/Sonic-OriginX/web
+**originX Web:** https://github.com/originX-seeds/web
 
-**originX Backend:** https://github.com/Sonic-OriginX/backend
+**originX Backend:** https://github.com/originX-seeds/backend
 
-**originX Smart Contract:** https://github.com/Sonic-OriginX/sc
+**originX Smart Contract:** https://github.com/originX-seeds/sc
 
-**originX Agent:** https://github.com/Sonic-OriginX/agent
+**originX Agent:** https://github.com/originX-seeds/agent
 
-**originX AVS:** https://github.com/Sonic-OriginX/avs
+**originX AVS:** https://github.com/originX-seeds/avs
 
-**originX Subgraph:** https://github.com/Sonic-OriginX/subgraph
+**originX Subgraph:** https://github.com/originX-seeds/subgraph
